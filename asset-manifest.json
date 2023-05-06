@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testlocofy2/static/css/main.75dab6a8.css",
+    "main.js": "/testlocofy2/static/js/main.3467b68d.js",
+    "index.html": "/testlocofy2/index.html",
+    "main.75dab6a8.css.map": "/testlocofy2/static/css/main.75dab6a8.css.map",
+    "main.3467b68d.js.map": "/testlocofy2/static/js/main.3467b68d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75dab6a8.css",
+    "static/js/main.3467b68d.js"
+  ]
+}
